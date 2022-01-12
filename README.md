@@ -1,5 +1,5 @@
 <p>
-  <h2 align="center"> Hey there! I'm Itachi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"></h2>
+  <h2 align="center"> Hey there! I'm Itachi. </h2>
 </p>
 <br>
 <p>
@@ -42,7 +42,7 @@
 <br>
 <b><h2 align="center"> 🤝🏻 Connect with Me </h2></b>
  <div align="center">
-<a href="https://instagram.com/Doston.lv" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  <a href="mailto:wizardboyDostonjon@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a><a href="https://t.me/software_engeneer" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/50/000000/telegram-app--v4.png" width="50"/></a>
+<a href="https://instagram.com/Doston.lv" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  <a href="mailto:IamItachiUchixa@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a><a href="https://t.me/software_engeneer" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/50/000000/telegram-app--v4.png" width="50"/></a>
   </div>
 </p>
 
