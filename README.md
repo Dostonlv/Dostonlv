@@ -6,7 +6,7 @@
   <img align="right"  src="https://wallpaperaccess.com/full/3541347.jpg" width="400" height="280"/>
 </p>
 
-<h3> I'm Software Engineer from Uzbekistan. </h3>
+<h3> I'm Software Engineer  </h3>
 <br>
 <br>
 - 🔋  I’m currently learning <b>JavaScript,ReactJS, NodeJS</b> .<br>
