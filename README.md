@@ -13,7 +13,7 @@
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: wizardboyDostonjon@gmail.com<br>
 - 😄 My website: <a href="https://dostonportfolio.vercel.app/">Doston.uz</a><br>
-- ⚡️ Fun fact: I use linux🐧 also Windows :))
+- ⚡️ Fun fact: I use linux🐧 and osx also Windows :))
 <br>
 <br>
 <br>
