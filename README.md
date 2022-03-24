@@ -12,7 +12,7 @@
 - 🔋  I’m currently learning <b>JavaScript,ReactJS, NodeJS</b> .<br>
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: IamItachiUchixa@gmail.com<br>
-- 😄 My website: <a href="http://itachi.uz/">Itachi.uz</a><br>
+- 😄 My website: <a href="https://dostonportfolio.vercel.app/">Doston.uz</a><br>
 - ⚡️ Fun fact: I use linux🐧 also Windows :))
 <br>
 <br>
