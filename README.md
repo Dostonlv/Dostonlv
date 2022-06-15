@@ -27,8 +27,10 @@
 <br>
 <b> <h2 align="center">💻 My Github activity </h2></b>
 <p>
+  
  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dostonlv&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px" align="center">
+   <a href="https://app.daily.dev/Dostonlv"><img src="https://api.daily.dev/devcards/44c30c824f1142188bf536c1828ee607.png?r=n2k" width="400" alt="Doston's Dev Card"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Dostonlv&show_icons=true&theme=radical&title_color=C0C0C0&text_color=fff&icon_color=#C0C0C0" width="500px" align="center">
    
    </div>
    
@@ -36,7 +38,7 @@
 <br>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dostonlv&layout=radical&title_color=8E2DE2&icon_color=8E2DE2&text_color=8E2DE2&bg_color=000000" width="500px" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dostonlv&layout=radical&title_color=C0C0C0&icon_color=C0C0C0&text_color=C0C0C0&bg_color=000000" width="500px" align="center">
   </div>
 <br>
 <br>
