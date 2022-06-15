@@ -25,7 +25,9 @@
 <br>
 
 </p>
+
  🔨 Languages and Tools:
+
 
 <img align="left" alt="HTML" width="26px" src="./img/html.svg" />
 <img align="left" alt="CSS" width="26px" src="./img/css.svg" />
@@ -35,10 +37,8 @@
 <img align="left" alt="Sass" width="26px" src="./img/sass.svg" />
 <img align="left" alt="ReactJS" width="26px" src="./img/react.svg" />
 <img align="left" alt="ReactJS" width="26px" src="./img/nextjs.png" />
-<img align="left" alt="Java" width="26px" src="./img/java.svg" />
 <img align="left" alt="C++" width="26px" src="./img/c++.svg" />
-<img align="left" alt="PostgreSQL" width="26px" src="./img/postgres.svg" />
-<img align="left" alt="MongoDB" width="26px" src="" />
+<img align="left" alt="MongoDB" width="26px" src="./img/mongodb.png" />
 <img align="left" alt="Visual Studio Code" width="38px" src="./img/visual-studio-code.png" />
 <img align="left" alt="JetBrains" width="38px" src="./img/jb_beam.png" />
 <img align="left" alt="Figma" width="17px" src="./img/figma_vector.png" />
