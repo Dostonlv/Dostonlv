@@ -25,21 +25,22 @@
 
 </p>
 <br>
-<b> <h2 align="center">💻 My Github activity </h2></b>
+<b> <details> <summary><h2 align="center">💻 My Github activity </h2></b></summary>
 <p>
   
  <div align="center">
-   <a href="https://app.daily.dev/Dostonlv"><img src="https://api.daily.dev/devcards/44c30c824f1142188bf536c1828ee607.png?r=n2k" width="400" alt="Doston's Dev Card"/></a>
+   <a href="https://app.daily.dev/Dostonlv"><img src="https://api.daily.dev/devcards/44c30c824f1142188bf536c1828ee607.png?r=4ns" width="400" alt="Doston's Dev Card"/></a>
 <img src="https://github-readme-stats.vercel.app/api?username=Dostonlv&show_icons=true&theme=radical&title_color=C0C0C0&text_color=fff&icon_color=#C0C0C0" width="500px" align="center">
    
    </div>
-   
+  
 </p>
 <br>
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dostonlv&layout=radical&title_color=C0C0C0&icon_color=C0C0C0&text_color=C0C0C0&bg_color=000000" width="500px" align="center">
   </div>
+  </details>
 <br>
 <br>
 <b><h2 align="center"> 🤝🏻 Connect with Me </h2></b>
