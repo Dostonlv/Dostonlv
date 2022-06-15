@@ -38,7 +38,7 @@
 <img align="left" alt="ReactJS" width="26px" src="./img/react.svg" />
 <img align="left" alt="ReactJS" width="26px" src="./img/nextjs.png" />
 <img align="left" alt="C++" width="26px" src="./img/c++.svg" />
-<img align="left" alt="MongoDB" width="26px" src="./img/mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="./img/mongodb1.png" />
 <img align="left" alt="Visual Studio Code" width="38px" src="./img/visual-studio-code.png" />
 <img align="left" alt="JetBrains" width="38px" src="./img/jb_beam.png" />
 <img align="left" alt="Figma" width="17px" src="./img/figma_vector.png" />
