@@ -54,5 +54,5 @@
 
 ## ⚜ Doston' stats:
   <a href="https://app.daily.dev/Dostonlv"><img src="https://api.daily.dev/devcards/44c30c824f1142188bf536c1828ee607.png?r=4ns" width="400" alt="Doston's Dev Card"/></a>c <br> <br>
-![Doston' Github Stats](https://github-readme-stats.vercel.app/api?username=dostonlv&]&theme=dark&show_icons=true)
+![Doston' Github Stats](https://github-readme-stats.vercel.app/api?username=dostonlv&]&theme=dark&show_icons=true)<br>
 [![Hits](https://hits.sh/github.com/Dostonlv.svg?color=26a9aa&labelColor=378b8b&logo=tsnode)](https://hits.sh/github.com/Dostonlv/)
