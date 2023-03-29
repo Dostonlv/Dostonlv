@@ -40,6 +40,7 @@
 <img align="left" alt="Linux" width="26px" src="./img/linux.png" />
 <img align="left" alt="Nodejs" width="26px" src="./img/nodejs-new-pantone-black.svg" />
 <img align="left" alt="Deno" width="26px" src="./img/deno.png" />
+<img align="left" alt="Golang" width="26px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg"/>
 <br />
 <br />
 <div>
