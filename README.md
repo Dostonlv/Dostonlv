@@ -11,7 +11,7 @@
  - 🔭 Currently working as a <b> Open Source contributor </b><br>
     - 🌱 Currently learning <b> Nodejs,Deno </b><br>
     - 💬 Feel free to give any question related to <b>IT</b>  <br>
-    - ✌ My website: <a href="https://Doston.me">Doston.me</a>
+    - ✌ My website: <a href="https://akihito.uz">akihito.uz</a>
     
 
 <br>
