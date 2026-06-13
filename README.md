@@ -9,9 +9,9 @@
 <h2> I'm a Software Engineer from Uzbekistan. </h2>
 <br>
  - 🔭 Currently working as a <b> Open Source contributor </b><br>
-    - 🌱 Currently learning <b> Nodejs,Deno </b><br>
+    - 🌱 Currently learning <b> Rust and Nixos </b><br>
     - 💬 Feel free to give any question related to <b>IT</b>  <br>
-    - ✌ My website: <a href="https://akihito.uz">akihito.uz</a>
+    - ✌ My website: <a href="https://kisuke.uz">kisuke.uz</a>
     
 
 <br>
@@ -50,8 +50,8 @@
 ## 💬 Contact with me via:
 
 <!-- [<img align="left" alt="Linkedin" width="26px" src="./img/LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/) -->
-[<img align="left" alt="Telegram" width="26px" src="./img/Telegram.png" />](https://t.me/Software_engeneer)
-[<img align="left" alt="Gmail" width="26px" src="./img/g_mail.png" />](mailto:wizardboydostonjon@gmail.com)<br><br>
+[<img align="left" alt="Telegram" width="26px" src="./img/Telegram.png" />](https://t.me/Dostonlv)
+[<img align="left" alt="Gmail" width="26px" src="./img/g_mail.png" />](mailto:kisuke@deltateam.uz)<br><br>
 
 ## ⚜ Doston' stats:
 <a href="https://app.daily.dev/Dostonlv"><img src="https://api.daily.dev/devcards/44c30c824f1142188bf536c1828ee607.png?r=ycs" width="400" alt="Doston's Dev Card"/></a>c <br> <br>
